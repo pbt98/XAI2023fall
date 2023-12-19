@@ -5,6 +5,7 @@ https://drive.google.com/drive/folders/1GD7ExoYwilA49eSS6i3T822DEioxd1Wj?usp=dri
 -> /PaddleOCR/train_data/ser_vi_layoutxlm_xfund_zh
 
 2. model training + testing
-execution.ipynb
+-> execution.ipynb
 
 3. inference + XAI
+-> xai.ipynb
